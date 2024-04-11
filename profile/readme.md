@@ -1,6 +1,6 @@
 # IntelliGO Labs - GRAphics and Interaction (GRAIL) @ UniVR
 
-We are IntelliGO GRAIL, a research team part of [IntelliGO Labs](https://github.com/intelligolabs) specializing in graphic and interaction topics.
+We are IntelliGO GRAIL, a research team part of [IntelliGO Labs](https://github.com/intelligolabs) at the University of Verona, specializing in graphic and interaction topics.
 
 Our research interests:
 

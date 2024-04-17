@@ -12,4 +12,4 @@ Our research interests:
   
 Leader: prof. Andrea Giachetti ([giach68](https://github.com/giach68))
 
-💻 More about us on our website [intelligolabs.net](intelligolabs.net)!
+💻 More about us on our website [intelligolabs.net](https://www.intelligolabs.net)!
